@@ -40,7 +40,6 @@
         </span>
         <br />
         ☀️
-    
       </h2>
       <h3>
         <ul>
@@ -101,6 +100,8 @@
       <br />
       </div>
     </div>
+<small>
+<a href="https://github.com/dophelps/ClimateApp" target="_blank"> Open source code </a> by Dani Phelps </small>
     <script src="src/index.js">
     </script>
   </body>
